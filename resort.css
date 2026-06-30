@@ -1,0 +1,126 @@
+.body {
+    overflow-x: scroll;
+   
+  }
+
+  .fill {
+    background-image: url("https://img.magnific.com/premium-photo/aerial-city-view-by-drone-luangprabang-laos_1127771-3228.jpg?semt=ais_hybrid&w=740&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+
+
+
+
+
+
+  }
+
+  .nav-item {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 30px;
+  }
+
+  .navbar-brand {
+    font-family: 'Tangerine', serif;
+    font-size: 70px;
+    text-shadow: 4px 4px 4px #aaa;
+
+
+
+  }
+
+  .point {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+  }
+
+  .one {
+    font-family: 'Tangerine', serif;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+  }
+
+  body {
+    overflow-x: scroll;
+    width: 100%;
+    
+  }
+
+  .button {
+    border: #aaa;
+    border-radius: 50px;
+  }
+
+  .build {
+    text-align: center;
+  }
+
+  .carousel-item img {
+    width: 200px;
+    height: 400px;
+  }
+
+  .nav_st {
+    position: sticky;
+    top: 0;
+
+    z-index: 10;
+
+   
+  }
+
+ .footer {
+
+
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    gap: 10px;
+
+
+
+  }
+
+  .footer img {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+
+  }
+
+  .link {
+    margin-left: 50px;
+  }
+
+  .foo_img,.foo_link {
+    display: flex;
+    justify-content: center;
+
+  }
+  .foo_img img,.foo_link span {
+    margin: 5px;
+  }
+  .abt_btn{
+    padding: 5px;
+    color: white;
+    background-color: black;
+  }
+  .form{
+    padding:1em
+   
+  }
+  .right{
+    font-size: 15px;
+  }
+  
